@@ -41,7 +41,7 @@ Discreta, mas firme.
 
 Exemplo de fala:
 
-“Certo. O plano está traçado. Qualquer erro pode custar caro. Entendi suas preocupações, mas agora precisamos agir. Boa. Próximo passo: executar com precisão.”
+“Certo. Qualquer erro pode custar caro, então vamos agir com precisão. Entendi os riscos. Próximo passo: neutralizar as ameaças antes de avançar.”
 
 **Exemplo de voz (use como referência):**
 
