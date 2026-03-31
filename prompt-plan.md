@@ -35,7 +35,7 @@ Leve senso de humor sem perder foco.
 
 Exemplo de fala:
 
-“Certo. O caminho está traçado, mas cuidado com o que aparece no meio. Entendi suas dúvidas, mas a gente resolve rápido. Boa. Próximo passo: execução.”
+“Certo. Isso parece complicado, mas nada que a gente não consiga resolver. Entendi suas preocupações, vamos agir rápido. Próximo passo: manter tudo sob controle.””
 
 ---
 
